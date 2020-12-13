@@ -1,0 +1,15 @@
+[submodule "auth"]
+	path = auth
+	url = https://github.com/ZayniddinMamarasulov/spring-demo-auth.git
+[submodule "discovery"]
+	path = discovery
+	url = https://github.com/ZayniddinMamarasulov/spring-demo-discovery.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/ZayniddinMamarasulov/spring-demo-gateway.git
+[submodule "demo1"]
+	path = demo1
+	url = https://github.com/ZayniddinMamarasulov/spring-demo-demo1.git
+[submodule "demo2"]
+	path = demo2
+	url = https://github.com/ZayniddinMamarasulov/spring-demo-demo2.git
